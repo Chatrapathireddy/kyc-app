@@ -1,0 +1,4 @@
+> git push -u origin main
+fatal: User cancelled dialog.
+remote: Repository not found.
+fatal: repository 'https://github.com/yourusername/kyc-app.git/' not found
